@@ -28,7 +28,7 @@ This is javascript project given in the **Ineuron's Full Stack JavaScript Develo
 
 <br>
 
-> Time taken to build this project is 30 mints and I really enjoyed it 😎.
+> Time taken to build this project is 1hrs and 30 mints and I really enjoyed it 😎.
 
 <br>
 
