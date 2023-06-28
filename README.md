@@ -1,5 +1,5 @@
 # ⭐ Project - Password Generator⭐
-🔗 [Project Link](https://randomly-password-generator.netlify.app/ "Click me") <br>
+🔗 [Project Link](https://vishal-kumaar.github.io/Password-Generator/ "Click me") <br>
 
 This is javascript project given in the **Ineuron's Full Stack JavaScript Development Bootcamp**.
 
